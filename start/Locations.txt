@@ -1,0 +1,42 @@
+dirty garage
+-,-,-,kitchen
+You are in a dark garage, near a dirty wall splashed with a red liquid.
+The only light coming in is through a tiny hole in the boarded-up garage windows.
+END
+kitchen
+-,-,dirty garage,living room
+You appear to be in a kitchen, with a questionable choice of orange wallpaper.
+END
+living room
+bedroom,backyard,kitchen,-
+You are in a living room, with broken furniture and blood smeared on the beautiful cream floor tiles.
+END
+bedroom
+-,living room,-,-
+You enter what appears to be someone's extremely pink and fluffy bedroom.
+END
+backyard
+living room,-,-,backyard 2
+You emerge in a backyard, complete with a swing set and a barbeque grill.
+It is surrounded by an imposing board fence, except in one place where it looks as if though someone had rammed a heavy object through it.
+END
+backyard 2
+kitchen 2,-,backyard,-
+You are near an unkept swimming pool in a large backyard.
+Let's hope there are no dogs.
+END
+kitchen 2
+-,backyard 2,-,livingroom 2
+You are in a kitchen that is certainly not used for cooking anymore, judging by the general mess.
+END
+livingroom 2
+safe room,-,-,livingroom 2
+You are in a minimally furnished living room, with only a black sofa and a gaming station.
+There is some untidy writing on the wall - 
+"HELLO. Come to the safe room if you are still alive."
+END
+safe room
+-,livingroom 2,-,-
+You are in a safe room with random guy Gary, who invites you to stay until the the undead situation subsides.
+Or until they break through and both of you die. In any case, you need to get some sleep.
+END

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="zpack.SmartUndead" project="SAMARAKKODY_Pasan_AdventureZ_2.0" 
+    file="/SAMARAKKODY_Pasan_AdventureZ_2.0/src/zpack/SmartUndead.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="142" width="259" x="344" y="917"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="zpack.HealthItem" project="SAMARAKKODY_Pasan_AdventureZ_2.0" 
+    file="/SAMARAKKODY_Pasan_AdventureZ_2.0/src/zpack/HealthItem.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="224" x="643" y="917"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="zpack.StaminaItem" project="SAMARAKKODY_Pasan_AdventureZ_2.0" 
+    file="/SAMARAKKODY_Pasan_AdventureZ_2.0/src/zpack/StaminaItem.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="235" x="907" y="917"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="zpack.Item" project="SAMARAKKODY_Pasan_AdventureZ_2.0" 
+    file="/SAMARAKKODY_Pasan_AdventureZ_2.0/src/zpack/Item.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="250" width="202" x="907" y="519"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="zpack.Weapon" project="SAMARAKKODY_Pasan_AdventureZ_2.0" 
+    file="/SAMARAKKODY_Pasan_AdventureZ_2.0/src/zpack/Weapon.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="124" width="210" x="1182" y="917"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="zpack.AdventureManager" project="SAMARAKKODY_Pasan_AdventureZ_2.0" 
+    file="/SAMARAKKODY_Pasan_AdventureZ_2.0/src/zpack/AdventureManager.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="250" width="579" x="-211" y="-311"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="zpack.TextAdventure" project="SAMARAKKODY_Pasan_AdventureZ_2.0" 
+    file="/SAMARAKKODY_Pasan_AdventureZ_2.0/src/zpack/TextAdventure.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="178" width="198" x="408" y="-311"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="zpack.Location" project="SAMARAKKODY_Pasan_AdventureZ_2.0" 
+    file="/SAMARAKKODY_Pasan_AdventureZ_2.0/src/zpack/Location.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="286" width="496" x="646" y="-311"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="zpack.Player" project="SAMARAKKODY_Pasan_AdventureZ_2.0" 
+    file="/SAMARAKKODY_Pasan_AdventureZ_2.0/src/zpack/Player.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="790" width="477" x="1182" y="-311"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="zpack.Undead" project="SAMARAKKODY_Pasan_AdventureZ_2.0" 
+    file="/SAMARAKKODY_Pasan_AdventureZ_2.0/src/zpack/Undead.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="358" width="224" x="495" y="519"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="11">    
+    <bendpoint x="1191" y="519"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="12" name="activeWeapon"/>      
+      <multiplicity id="13" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="14">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="15">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="10"/>  
+  </generalization>  
+  <association id="16">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="17" name="locationUndead"/>      
+      <multiplicity id="18" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="19">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <association id="20">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="21" name="inventory"/>      
+      <multiplicity id="22" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="23">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="24" name="locationItems"/>      
+      <multiplicity id="25" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

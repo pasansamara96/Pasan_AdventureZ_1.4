@@ -1,0 +1,56 @@
+zombie_1
+undead
+20
+kitchen
+15
+A zombie is sprawled on the rug, giving off an awful rotting smell.
+END
+zombie_2
+undead
+40
+living room
+15
+There is a zombie in front of the TV, wearing a pink sweater and staring at you questioningly
+END
+zombie_3
+smartundead
+40
+bedroom
+20
+A smart zombie emerges from hiding under the bed.
+END
+zombie_4
+undead
+40
+backyard
+15
+There is a lanky zombie leaning against the backyard fence.
+END
+zombie_5
+undead
+40
+backyard
+15
+A zombie on all fours looks up at you from the grass.
+END
+zombie_6
+smartundead
+50
+kitchen 2
+30
+A cunning zombie emerges from the shadows.
+END
+zombie_7
+undead
+60
+livingroom 2
+20
+A bulky zombie gets up from the sofa.
+END
+zombie_8
+smartundead
+40
+livingroom 2
+20
+A sinister zombie appears behind you.
+END

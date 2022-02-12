@@ -1,0 +1,56 @@
+pencil
+weapon
+10
+inventory
+A pencil.
+END
+wrench
+weapon
+50
+dirty garage
+A grime coated wrench lies on the floor.
+END
+banana
+staminaitem
+30
+kitchen
+A ripe banana on the kitchen shelf catches your eye.
+END
+note
+item
+0
+living room
+There is a small, wrinkled piece of paper near your feet.
+On it, someone has written "Save yourself. THEY ARE EVERYWHERE."
+END
+medkit
+healthitem
+50
+living room
+A medkit lies just within your reach.
+END
+bat
+weapon
+60
+backyard
+There is a bat near the barbeque grill, used to play baseball or cricket or whatever.
+END
+card
+item
+0
+backyard 2
+A black business card lies by the pool. It reads "GARY M., Game Tester".
+END
+syringe
+healthitem
+90
+kitchen 2
+There is a syringe on the counter containing god-knows-what in the form of a reddish liquid.
+You optimistically assume it is painkiller.
+END
+knife
+weapon
+70
+kitchen 2
+A gleaming kitchen knife beckons to you.
+END
